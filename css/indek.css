@@ -23,3 +23,19 @@ li a {
         font-size: 25px;
     }
 }
+
+body,
+html {
+    height: 100%;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("image/314948697_107430482182580_5654184975171342217_n.jpg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

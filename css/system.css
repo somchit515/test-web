@@ -72,3 +72,18 @@ a {
     text-align: center;
     font-family: phetsarath OT;
 }
+
+body,
+html {
+    height: 100%;
+}
+
+.dv {
+    /* Full height */
+    height: 100%;
+    width: 100;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
